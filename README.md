@@ -24,7 +24,6 @@ Or reading 📖 .
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hawra-alramadan&show_icons=true&locale=en&layout=compact" alt="hawra-alramadan" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hawra-alramadan&show_icons=true&locale=en" alt="hawra-alramadan" /></p>
 
 
 
