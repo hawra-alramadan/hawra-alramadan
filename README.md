@@ -78,7 +78,7 @@ Let's connect and explore opportunities to collaborate on exciting projects that
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hawra-alramadan&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
-<!-- GitHub Stats with theme -->
-<p align="left">
+<!-- GitHub Stats with theme   <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=hawra-alramadan&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
+</p> -->
+
